@@ -6,7 +6,7 @@
 这是一个基于 Cloudflare Workers 的地址生成器，可以生成真实的美国地址、姓名、性别和电话号码。本项目在原有基础上增加了部分功能，优化了用户体验。
 
 ## 演示地址
-在线使用：https://usaddressgen.com
+在线使用：https://dz.evil9.cc.cd
 
 ## 预览
 ### 桌面端
